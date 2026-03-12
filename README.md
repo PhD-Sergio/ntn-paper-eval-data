@@ -59,7 +59,6 @@ If you use this data in your research, please cite:
 ## Related Repositories
 
 - [LEOPath](https://github.com/Fundacio-i2CAT/LEOPath) - LEO satellite routing simulation framework
-- [6G-RUPA](https://github.com/Fundacio-i2CAT/6G-RUPA) - 6G Recursive User Plane Architecture
 
 ## License
 
