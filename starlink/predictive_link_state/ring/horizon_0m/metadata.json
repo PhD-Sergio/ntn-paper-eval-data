@@ -6356,10 +6356,13 @@
   "end_time_hours": 6.0,
   "forwarding_state_definition": {
     "default": "reachable GS destinations per satellite",
+    "predictive_link_state": "global node map (nodes in topology graph)",
+    "segment_routing": "segment list length (configured segment_count)",
     "shortest_path_link_state": "global node map (nodes in topology graph)",
-    "topological_routing": "immediate neighbors (node degree in topology graph)"
+    "topological_routing": "immediate neighbors (node degree in topology graph)",
+    "traditional_segment_routing": "segment list length (configured segment_count)"
   },
-  "generated_at": "2026-03-06T09:32:36.865031",
+  "generated_at": "2026-03-09T16:44:16.078351",
   "ground_stations": {
     "count": 24,
     "override_path": "/app/output/leopath/config/ground_stations_dense.yaml"
